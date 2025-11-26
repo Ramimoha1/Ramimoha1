@@ -1,6 +1,6 @@
 # Hi, I'm Rami 👋
 
-🎓 I'm a 2nd-year Software Engineering student at Universiti Teknologi Malaysia  
+🎓 I'm a Third-year Software Engineering student at Universiti Teknologi Malaysia  
 💻 Aspiring Full-Stack Developer | Learning app development and web frameworks  
 🌐 Languages I use:  
 - C, C++, Python, Java  
