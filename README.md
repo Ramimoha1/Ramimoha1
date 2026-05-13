@@ -1,6 +1,6 @@
 # Hi, I'm Rami 👋
 
-🎓 Third-year Computer Science (Software Engineering) student at Universiti Teknologi Malaysia | 3.97 GPA  
+🎓 Third-year Computer Science (Software Engineering) student at Universiti Teknologi Malaysia | 3.98 GPA  
 💻 Full-Stack Developer | 4-time Dean's List Awardee  
 
 ## 💼 Experience
